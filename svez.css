@@ -1,0 +1,6 @@
+.icon{
+  width: 50px;
+}
+.icon:hover{
+  border-color: #fff;
+}
